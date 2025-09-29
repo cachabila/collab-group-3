@@ -1,5 +1,14 @@
+
 .Amel {
     text-align: center;
     color: rgb(182, 131, 41);
     background-color: rgb(237, 205, 145);
+
+.Gewol{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(2, 93, 2);
+}
+section{
+    text-align: center;
 }
